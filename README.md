@@ -1,5 +1,7 @@
 # MKBankApp
-This is small project created for training purposes.
+
+## What is this?
+This is small project created for training purposes. Application is based on Java, JDBC and MySQL Database. This project evolved and here you can find better version based on hibernate: [MKBankApp2](https://github.com/mat0714/mk-bank-2)
 
 Using this application you can:
 - create new customer profile
@@ -10,4 +12,8 @@ Using this application you can:
 - show all customers profiles(with their accounts)
 - change all savings accounts rate of interest
 
-This application uses JDBC and data is stored in MySQL Database.
+Every operation you can initiate directly from the console.
+
+## Technologies
+Java17, Maven, JDBC, MySQL
+
