@@ -15,5 +15,5 @@ Using this application you can:
 Every operation you can initiate directly from the console.
 
 ## Technologies
-Java17, Maven, JDBC, MySQL
-
+<img src="https://img.shields.io/badge/-JAVA 17-red" alt="Java 17" /> <img src="https://img.shields.io/badge/-MAVEN-red" alt="MAVEN" />
+<img src="https://img.shields.io/badge/-JDBC-red" alt="JDBC" /> <img src="https://img.shields.io/badge/-MYSQL-red" alt="MySQL" />
